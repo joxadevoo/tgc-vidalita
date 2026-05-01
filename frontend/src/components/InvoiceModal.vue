@@ -151,7 +151,6 @@
           <!-- Footer: Minimal -->
           <div class="border-t border-gray-200 pt-6 text-center italic">
             <p class="text-sm font-bold text-black">{{ $t('invoice.thankYou') }}</p>
-            <p class="text-[10px] text-gray-500 mt-1">{{ $t('invoice.returnPolicy') }}</p>
           </div>
 
         </div>
